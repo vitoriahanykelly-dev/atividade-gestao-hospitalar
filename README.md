@@ -84,3 +84,5 @@ erDiagram
 O desenvolvimento deste projeto permitiu praticar a criação de bancos de dados relacionais, construção de tabelas, relacionamentos e consultas SQL.
 
 As consultas possibilitam analisar informações importantes para a organização e administração hospitalar.
+
+## Diagrama de Entidade e Relacionamento
